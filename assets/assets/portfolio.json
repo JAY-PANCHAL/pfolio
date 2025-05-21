@@ -1,0 +1,131 @@
+{
+    "name_and_link": [
+        "Jay Panchal",
+        "https://github.com/JAY-PANCHAL"
+    ],
+    "designation": [
+        "Android Application Developer",
+        "Flutter Developer.",
+        "Mobile Application Developer"
+    ],
+    "resume_download_link": "",
+    "social_media": {
+        "1": [
+            "https://github.com/JAY-PANCHAL",
+            "github"
+        ],
+        "2": [
+            "https://in.linkedin.com/in/jay-panchal4",
+            "linkedin"
+        ],
+        "3": [
+            "https://stackoverflow.com/users/12913325/jay-panchal",
+            "stackoverflow"
+        ],
+        "4": [
+            "mailto:jaypanchal4498@gmail.com",
+            "email"
+        ],
+        "5": [
+            "https://medium.com/@jaypanchal4498",
+            "medium"
+        ]
+
+    },
+    "contact_me": {
+        "location": "Mumbai, India",
+        "open_for_opportunities": "Yes(PAN India)",
+        "picture": "profile1.png"
+    },
+    "about": "A Passionate Mobile Application Developer",
+    "bio": "Flutter developer passionate about crafting stunning, user-friendly apps that combine elegant design with seamless functionality. Dedicated to turning ideas into impactful mobile experiences.",
+    "what_i_do": {
+        "tools": [
+            "flutter.png",
+            "android.png",
+            "firebase.png",
+            "git.png"
+        ],
+        "proficiency": [
+            "Flutter--95",
+            "Dart--95",
+            "Android--95",
+            "IOS--75",
+            "Firebase--95",
+            "Getx--95",
+            "Bloc--80",
+            "Provider--90",
+            "Payment Integrations--95",
+            "Git--90",
+            "Third Party SDK--85",
+            "Low Level BLE Integration --95",
+            "Sqlite--90"
+        ]
+    },
+    "education": {
+        "1": {
+            "institute": "K.S. School of Business Management",
+            "location": "Ahmedabad",
+            "years": "2016-2024",
+            "description": "BSC(CA & IT)",
+            "grades":"",
+            "logo": "kssbm.png"
+        },
+        "2": {
+            "institute": "K.S. School of Business Management",
+            "location": "Ahmedabad",
+            "years": "2018 - 2021",
+            "description": "MSC(CA & IT)",
+            "grades":"",
+            "logo": "kssbm.png"
+        }
+    },
+    "experience": {
+        "1": {
+            "name": "Tridhya Tech PVT LTD",
+            "role": "Mobile Application Developer",
+            "period": "Jan, 2021 - Jan, 2022",
+            "description": "Designed, developed, and tested Android applications using Java and Kotlin with MVC and MVVM patterns, integrating REST APIs and custom resources for enhanced functionality.\nEnsured compatibility across devices and OS versions through rigorous testing, optimizing performance, and addressing user feedback to deliver engaging, user-focused mobile solutions.",
+            "image_name": ""
+        },
+        "2": {
+            "name": "WaytoWeb PVT LTD ",
+            "role": "Mobile Application Developer",
+            "period": "Jan, 2022 - Sept, 2023",
+            "description": "Developed and delivered diverse Flutter and Android applications, including a music player with Firebase integration, real-time location-sharing apps for shipping companies, and an UrbanClap-like suite with push notifications, local storage, and cost calculation features.\nCollaborated with clients from requirements gathering to app deployment, ensuring seamless functionality and user experience across Google Play and App Store.",
+            "image_name": ""
+        },
+        "3": {
+            "name": "MindTech Solutions PVT LTD",
+            "role": "Senior Mobile Application Developer",
+            "period": "Sept, 2023 - Present",
+            "description": "Senior Flutter Developer with a proven track record of delivering high-quality Android and iOS applications, including Uber-like ride-hailing apps with real-time tracking and payment integration (10k+ downloads).\nLed a mobile development team, mentoring junior developers and delivering solutions like employee management, onsite work tracking, and inventory management apps to enhance efficiency and streamline processes.",
+            "image_name": ""
+        }
+
+    },
+    "projects": {
+        "1": {
+            "name": "Taxi Booking App",
+            "tech_stack_used": "Flutter,Dart,Bloc,MVC,Firebase,Push Notification",
+            "description": "A feature-rich, cross-platform mobile application developed using Flutter and BLoC architecture, designed to simplify and digitize taxi bookings across Goa. With over 15,000+ downloads and more than 4,000 daily active users, the app ensures a seamless experience on both iOS and Android platforms. It leverages Firebase for secure authentication, real-time ride data, and push notifications. Users can easily view nearby drivers, book rides, and track drivers in real time with dynamic map updates. Drivers receive instant booking alerts, navigation assistance, and full trip management tools. The app exemplifies robust state management, real-time location syncing, and complete end-to-end ride lifecycle control, making it a scalable and production-grade mobility solution.",
+            "general_or_github_link": "https://play.google.com/store/apps/details?id=com.gel.goataxi&hl=en"
+        },
+        "2": {
+            "name": "Taxi Driver App",
+            "tech_stack_used": "Getx,Flutter,Dart,MVC,Firebase,Push Notification,Natice code for Android Services",
+                "description": "A dedicated driver-side companion app for the Goa Taxi platform, developed using Flutter and GetX for efficient state and dependency management. This app equips drivers with tools for real-time ride request handling, navigation support, and ride history tracking. It includes robust background location tracking, even when the app is closed (Android), to ensure dynamic and continuous location updates to the server—critical for accurate ride assignment and real-time monitoring. With a focus on performance and battery efficiency, the app maintains persistent backend communication via REST API integration. Currently, over 1,200 drivers use the app daily, receiving bookings from Goa airport kiosks and the client-facing mobile application, making it a vital operational component of the Goa Taxi ecosystem.",
+            "general_or_github_link": "https://play.google.com/store/apps/details?id=com.gel.goataxidriver&hl=en_IN"
+        },
+        "3": {
+            "name": "AASAN(Milk Collection & Dairy Management App)",
+            "tech_stack_used": "Getx,Flutter,Dart,Sqlite,Low Level BLE Connections,Printer Integration,Offline Application",
+            "description": "A powerful Flutter-based mobile solution built for rural dairy cooperatives like Amul, enabling streamlined and offline-capable milk collection operations. The app integrates secure SQLite (securedb), supports low-level BLE communication for milk analyzer readings, and provides Bluetooth printer connectivity for instant receipt generation. Farmers’ data and daily transactions are safely managed even in remote areas, with PDF and Excel export features for seamless reporting. With a user base of over 6,000 active users across India, this solution plays a crucial role in daily milk collection and payment processing for dairies, transforming traditional workflows into efficient digital operations.",
+            "general_or_github_link": "https://play.google.com/store/apps/details?id=com.mindtech.aasaan&hl=en_IN"
+        }
+
+    },
+    "achievements": {
+
+    }
+}
